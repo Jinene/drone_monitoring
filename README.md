@@ -1,4 +1,3 @@
-# drone_monitoring
 # Autonomous Drone for Air Pollution Monitoring
 
 A modular drone system for real-time air pollution monitoring using embedded sensors, GPS tracking, and telemetry communication.
